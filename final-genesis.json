@@ -24,7 +24,7 @@
             }
           }
         },
-        "blockRewardContractTransition": {
+        "blockRewardContractTransitions": {
           "18726": "0x4FA60BE5C619Fc8ed3841dfce8ed13458CC35Fd9"
         },
         "randomnessContractAddress": {
