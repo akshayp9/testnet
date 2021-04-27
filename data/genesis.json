@@ -10,7 +10,14 @@
 "validators": {
 "multi": {
 "0": {
-"list": []
+"list": [
+"0x9e200d505c03f7a74740d738f030573afbb8d24b",
+"0x2e1678d29b39fa5204c9663d4ac27adb88f450c5",
+"0xa8160bd050ac9b6e4c48f4e83a6eb923c940d27d",
+"0x8ef483de9b49978e4fe7fd01f2545a071bf3347d",
+"0x8c2295ef84acbc8212a427d70ded4c6ce3afee7d",
+"0x0178b829725824f7f23031a128f7abee1740a6fa"
+]
 }
 }
 }
