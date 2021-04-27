@@ -19,18 +19,18 @@
                 "0x0178b829725824f7f23031a128f7abee1740a6fa"
               ]
             },
-            "2100": {
-              "contract": "0x8F29046EB3AC7DC373e3222ECEd9529731e88250"
+            "3839": {
+              "contract": "0xbE46cD5EbaeF8019483E47D49AF33559558Ea100"
             }
           }
         },
         "blockRewardContractTransitions": {
-          "2100": "0x9E89d82C93321e830310B55F70eBB5C615926E4d"
+          "3839": "0x4Da70E69ed8148e37951E6e63844F4575F42A05B"
         },
         "randomnessContractAddress": {
-          "2100": "0xA0D3Ce4c0974e3a8aD1F2fCe42A746956Db1FDC3"
+          "3839": "0xb9fDd005a1D81c54bC89fa36728EDE4054F18f55"
         },
-        "posdaoTransition": 2100
+        "posdaoTransition": 3839
       }
     }
   },
@@ -51,9 +51,9 @@
     "eip1706Transition": "0x0",
     "eip1884Transition": "0x0",
     "eip2028Transition": "0x0",
-    "registrar": "0x1A236c30656991495e256902849F6aE24349Efe7",
-    "transactionPermissionContract": "0x6728454cA388d8BC2dFB2d33AA53b2429cC9c965",
-    "transactionPermissionContractTransition": 2100
+    "registrar": "0xC7BAF1Cc1E85bcdFE5dd132cD60F750116c48657",
+    "transactionPermissionContract": "0x75aD92aBa80e1D0c93629e04Da8EA72532c38d2b",
+    "transactionPermissionContractTransition": 3839
   },
   "genesis": {
     "seal": {
