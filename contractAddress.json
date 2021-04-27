@@ -1,0 +1,15 @@
+{
+"ValidatorSetAuRa_implementation_address": "0xec4230112Ac44e05b304d5C650D92E11D9bfcC0D",
+"ValidatorSetAuRa_proxy_address": "0xedA221F0895F96CDdC1168729d084625446A8d84",
+"StakingAuRa_implementation_address": "0xccdA5cEaD2FbdAECC1ff916243f479A9a7DAE67E",
+"StakingAuRa_proxy_address" : "0xdeF1AdCe5219400571C01b9EdA78bC104c6430aE",
+"BlockRewardAuRa_implementation_address" : "0xE6fc3C8B1C4AbD19c838dd8e71413596d7df6040",
+"BlockRewardAuRa_proxy_address": "0xB207ddD2F60A595FAaC86A9df679FeD9A9a1044c",
+"RandomAuRa_implementation_address": "0x9687475909f7a9C50617922938A7b175dD5eeFA2",
+"RandomAuRa_proxy_address": "0x7f5C239C97f334c42D30C80e90f50afeE6748141",
+"TxPermission_implementation_address": "0xFE3dc34EEd6Be0fFCD27295fa6e1917FEec4c1b3",
+"TxPermission_proxy_address": "0x3D33061f40FF035F87E386d9b399C9586bd6D5Bd",
+"Certifier_implementation_address": "0x8A6b2Ba708305E68Fd0635c42c0c27221Ba7390a",
+"Certifier_proxy_address": "0x2EA5cDe348FA9bE9BB57c2514f7ff0BD8425261D",
+"Registry_address": "0x3bfA03D0eE7D9468b831EAE426824A2bE4Fe6B06"
+}
