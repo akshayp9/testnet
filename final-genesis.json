@@ -1,5 +1,5 @@
 {
-  "name": "xetl",
+  "name": "tetl",
   "engine": {
     "authorityRound": {
       "params": {
@@ -11,26 +11,26 @@
           "multi": {
             "0": {
               "list": [
-                "0x69541a00b4b64183616e802cfbc9356f8d93dbe4",
-                "0x308cded92e39c225a9620b2dcee5806461fe152b",
-                "0xf9cf2407150db5a7d78decbe71af38a39a504166",
-                "0x2209296c73d3d0530793160dabdbde9e2269f982",
-                "0xec93f477233346ccb8f250f6463b7821d2cb6660",
-                "0xb25fd17fef22d3425b2618eb330e3c97c58a6dfc"
+                "0x9e200d505c03f7a74740d738f030573afbb8d24b",
+                "0x2e1678d29b39fa5204c9663d4ac27adb88f450c5",
+                "0xa8160bd050ac9b6e4c48f4e83a6eb923c940d27d",
+                "0x8ef483de9b49978e4fe7fd01f2545a071bf3347d",
+                "0x8c2295ef84acbc8212a427d70ded4c6ce3afee7d",
+                "0x0178b829725824f7f23031a128f7abee1740a6fa"
               ]
             },
-            "1453": {
-              "contract": "0xedA221F0895F96CDdC1168729d084625446A8d84"
+            "2100": {
+              "contract": "0x8F29046EB3AC7DC373e3222ECEd9529731e88250"
             }
           }
         },
         "blockRewardContractTransitions": {
-          "1453": "0xB207ddD2F60A595FAaC86A9df679FeD9A9a1044c"
+          "2100": "0x9E89d82C93321e830310B55F70eBB5C615926E4d"
         },
         "randomnessContractAddress": {
-          "1453": "0x7f5C239C97f334c42D30C80e90f50afeE6748141"
+          "2100": "0xA0D3Ce4c0974e3a8aD1F2fCe42A746956Db1FDC3"
         },
-        "posdaoTransition": 1453
+        "posdaoTransition": 2100
       }
     }
   },
@@ -51,9 +51,9 @@
     "eip1706Transition": "0x0",
     "eip1884Transition": "0x0",
     "eip2028Transition": "0x0",
-    "registrar": "0x3bfA03D0eE7D9468b831EAE426824A2bE4Fe6B06",
-    "transactionPermissionContract": "0x3D33061f40FF035F87E386d9b399C9586bd6D5Bd",
-    "transactionPermissionContractTransition": 1453
+    "registrar": "0x1A236c30656991495e256902849F6aE24349Efe7",
+    "transactionPermissionContract": "0x6728454cA388d8BC2dFB2d33AA53b2429cC9c965",
+    "transactionPermissionContractTransition": 2100
   },
   "genesis": {
     "seal": {
@@ -201,8 +201,8 @@
         }
       }
     },
-    "0xCf60eD54C968a483A1C31Ed446c9DC46F6E78a1A": {
-      "balance": "22000000000000000000000000000"
+    "0xFeC333724F5779943bafA51Bb779D8c31a8d8666": {
+      "balance": "21000000000000000000000000000"
     }
   }
 }
